@@ -41,6 +41,16 @@ CACHES = {
         'LOCATION': ''
     }
 }
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'drpj',
+        'USER': 'postgres',
+        'PASSWORD': 'fh7d6dwjpucq',
+        'HOST': 'localhost',
+        'PORT': '5432',
+    }
+}
 
 # django-debug-toolbar
 # ------------------------------------------------------------------------------
