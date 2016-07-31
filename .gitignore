@@ -70,4 +70,4 @@ drpj/media/
 
 # Hitch directory
 tests/.hitch
-
+.idea/*
